@@ -47,9 +47,9 @@ This project is released under the MIT license.
 ## BibTeX
 ```
 @article{yang2024parameter,
-title={Parameter-Efficient Instance-Adaptive Neural Video Compression},
-author={Yang, Hyunmo and Oh, Seungjun and Park, Eunbyung},
-journal={arXiv preprint arXiv:2405.08530},
-year={2024}
+  title={Parameter-Efficient Instance-Adaptive Neural Video Compression},
+  author={Yang, Hyunmo and Oh, Seungjun and Park, Eunbyung},
+  journal={arXiv preprint arXiv:2405.08530},
+  year={2024}
 }
 ```
