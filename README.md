@@ -11,6 +11,8 @@ An official implementation of "Parameter-Efficient Instance-Adaptive Neural Vide
 
 ## Requirements
 Python 3.7+ and Conda
+
+
 Set environment
 ```
 conda create -n $env_name python=3.7
@@ -40,3 +42,14 @@ Our code based on [CompressAI](https://github.com/InterDigitalInc/CompressAI), [
 
 ## License
 This project is released under the MIT license.
+
+
+## BibTeX
+```
+@article{yang2024parameter,
+title={Parameter-Efficient Instance-Adaptive Neural Video Compression},
+author={Yang, Hyunmo and Oh, Seungjun and Park, Eunbyung},
+journal={arXiv preprint arXiv:2405.08530},
+year={2024}
+}
+```
