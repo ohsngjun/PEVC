@@ -1,5 +1,5 @@
 # Parameter-Efficient Instance-Adaptive Neural Video Compression
-Hyunmo Yang*, Seungjun Oh*, and Eunbyung Park
+Seungjun Oh*, Hyunmo Yang*, and Eunbyung Park
 
 ### [[Paper(arxiv)](https://arxiv.org/abs/2405.08530)]
 An official implementation of "Parameter-Efficient Instance-Adaptive Neural Video Compression".
